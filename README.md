@@ -1,6 +1,3 @@
-Original App Design Project - README Template
-===
-
 # Habit Tracker
 
 ## Table of Contents
