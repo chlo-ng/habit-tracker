@@ -67,6 +67,8 @@
         - An average user is speculated to use this app a few times a week, especially times when they are about to cook
         - More consuming than creating 
     - **Scope:**
+        - Might need to implement a internal timer to accommodate for reminders for expiration dates
+        - Other than that, not too much difficult than course content
 4. Couple's Calendar
     - **Description**
         - Keep track of important dates and events in a calendar along with your significant other. Users will be able to upload pictures and write notes to each event created to commemorate.
