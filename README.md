@@ -4,9 +4,9 @@
 
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
-3. [Sprints](#Sprints)
-4. [Wireframes](#Wireframes)
-5. [Schema](#Schema)
+3. [Wireframes](#Wireframes)
+4. [Schema](#Schema)
+5. [Sprints](#Sprints)
 
 ## Overview
 
@@ -89,21 +89,6 @@ An app that allows the user to track their daily habits. Each habit will be repr
 - [ ] Profile
 * from tab navigation
 
-## Sprints
-**Sprint 1**: 
-- [ ] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
-- [ ] Set up the Creating a Habit page with input fields
-- [ ] Set up adding a new habit
-      
-**Sprint 2**:
-- [ ] Set up updating an existing habit
-- [ ] Set up deleting an existing habit
-- [ ] Set up a skeleton of the Profile page
-      
-**Sprint 3**:
-- [ ] Navigating between List of Habits and Profile Page
-- [ ] Making a Habit as completed onto a calendar view
-- [ ] Link completed habits to a visualization
 
 ## Wireframes
 
@@ -127,3 +112,19 @@ An app that allows the user to track their daily habits. Each habit will be repr
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Sprints
+**Sprint 1**: 
+- [ ] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
+- [ ] Set up the Creating a Habit page with input fields
+- [ ] Set up adding a new habit
+      
+**Sprint 2**:
+- [ ] Set up updating an existing habit
+- [ ] Set up deleting an existing habit
+- [ ] Set up a skeleton of the Profile page
+      
+**Sprint 3**:
+- [ ] Navigating between List of Habits and Profile Page
+- [ ] Making a Habit as completed onto a calendar view
+- [ ] Link completed habits to a visualization
