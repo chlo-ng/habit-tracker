@@ -92,8 +92,7 @@ An app that allows the user to track their daily habits. Each habit will be repr
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="https://github.com/chlo-ng/ios101-capstone/blob/main/ios%20habit%20tracker.jpg" width=600>
+<img src="https://github.com/chlo-ng/ios101-capstone/blob/main/ios%20habit%20tracker.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
