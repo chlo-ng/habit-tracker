@@ -4,8 +4,9 @@
 
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
-3. [Wireframes](#Wireframes)
-4. [Schema](#Schema)
+3. [Sprints](#Sprints)
+4. [Wireframes](#Wireframes)
+5. [Schema](#Schema)
 
 ## Overview
 
@@ -93,10 +94,12 @@ An app that allows the user to track their daily habits. Each habit will be repr
 - [ ] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
 - [ ] Set up the Creating a Habit page with input fields
 - [ ] Set up adding a new habit
+      
 **Sprint 2**:
 - [ ] Set up updating an existing habit
 - [ ] Set up deleting an existing habit
 - [ ] Set up a skeleton of the Profile page
+      
 **Sprint 3**:
 - [ ] Navigating between List of Habits and Profile Page
 - [ ] Making a Habit as completed onto a calendar view
