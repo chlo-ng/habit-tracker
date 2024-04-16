@@ -112,19 +112,28 @@ An app that allows the user to track their daily habits. Each habit will be repr
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
-## Sprints
-**Sprint 1**: 
-- [ ] Set up 2 custom classes: Habit, HabitCell
-- [ ] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
-- [ ] Set up the Creating a Habit page with input fields
-      
-**Sprint 2**:
+## Sprint 1
+### Objectives
+- [x] Set up 2 custom classes: Habit, HabitCell
+- [x] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
+- [x] Set up the Creating a Habit page with input fields
+
+### Demo Video
+[Demo]()
+
+### Challenges
+Getting started was rockier than I thought it would be, a lot of errors encountered.
+But I eventually figured it out and I believe I set a good foundation for the remainder of the app.
+
+## Sprint 2
+### Objectives 
 - [ ] Set up adding a new habit
 - [ ] Set up updating an existing habit
 - [ ] Set up deleting an existing habit
 - [ ] Set up a skeleton of the Profile page
       
-**Sprint 3**:
+## Sprint 3
+### Objectives
 - [ ] Navigating between List of Habits and Profile Page
 - [ ] Making a Habit as completed onto a calendar view
 - [ ] Link completed habits to a visualization
