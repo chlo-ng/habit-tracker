@@ -1,19 +1,20 @@
 //
-//  MovieCell.swift
-//  ios101-lab-flix
+//  HabitCell.swift
+//  habit-tracker
+//
+//  Created by chloe ng on 4/15/24.
 //
 
 import UIKit
 
-class MovieCell: UITableViewCell {
+class HabitCell: UITableViewCell {
 
-
-    @IBOutlet weak var posterImageView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
-    @IBOutlet weak var overviewLabel: UILabel!
-
+    @IBOutlet weak var progressView: UIProgressView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
+        
         // Initialization code
     }
 

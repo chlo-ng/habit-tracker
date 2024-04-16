@@ -1,6 +1,8 @@
 //
 //  SceneDelegate.swift
-//  ios101-lab6-flix
+//  habit-tracker
+//
+//  Created by chloe ng on 4/15/24.
 //
 
 import UIKit
