@@ -6,7 +6,9 @@
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
-5. [Sprints](#Sprints)
+5. [Sprint 1](#Sprint-1)
+6. [Sprint 2](#Sprint-2)
+7. [Sprint 3](#Sprint-3)
 
 ## Overview
 
