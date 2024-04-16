@@ -116,9 +116,9 @@ An app that allows the user to track their daily habits. Each habit will be repr
 **Sprint 1**: 
 - [ ] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
 - [ ] Set up the Creating a Habit page with input fields
-- [ ] Set up adding a new habit
       
 **Sprint 2**:
+- [ ] Set up adding a new habit
 - [ ] Set up updating an existing habit
 - [ ] Set up deleting an existing habit
 - [ ] Set up a skeleton of the Profile page
