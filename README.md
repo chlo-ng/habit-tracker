@@ -117,7 +117,8 @@ An app that allows the user to track their daily habits. Each habit will be repr
 ## Sprint 1
 ### Objectives
 - [x] Set up 2 custom classes: Habit, HabitCell
-- [x] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
+- [x] Set up the List of Habits screen
+- [ ] Have a button navigate to Creating a Habit
 - [x] Set up the Creating a Habit page with input fields
 
 ### Demo Video
@@ -126,6 +127,9 @@ An app that allows the user to track their daily habits. Each habit will be repr
 ### Challenges
 Getting started was rockier than I thought it would be, a lot of errors encountered.
 But I eventually figured it out and I believe I set a good foundation for the remainder of the app.
+
+### What's Next
+Something I didn't achieve this week is making a button that navigates to Create a Habit screen. Instead, I made each table cell clickable and they navigate to Creating a Habit. Before the next sprint, I will make this button to transition smoothly to the next tasks.
 
 ## Sprint 2
 ### Objectives 
