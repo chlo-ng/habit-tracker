@@ -114,6 +114,7 @@ An app that allows the user to track their daily habits. Each habit will be repr
 
 ## Sprints
 **Sprint 1**: 
+- [ ] Set up 2 custom classes: Habit, HabitCell
 - [ ] Set up the List of Habits screen with clickable contents to navigate to Creating a Habit
 - [ ] Set up the Creating a Habit page with input fields
       
