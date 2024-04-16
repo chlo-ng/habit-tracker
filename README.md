@@ -122,7 +122,7 @@ An app that allows the user to track their daily habits. Each habit will be repr
 - [x] Set up the Creating a Habit page with input fields
 
 ### Demo Video
-[Demo]()
+[Demo](https://www.loom.com/share/50b90e0c907548108c729109eb484612?sid=6f82e4a7-8471-43f0-8b92-a20ce3dc84f3)
 
 ### Challenges
 Getting started was rockier than I thought it would be, a lot of errors encountered.
