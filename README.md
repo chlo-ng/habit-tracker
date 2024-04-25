@@ -133,11 +133,20 @@ Something I didn't achieve this week is making a button that navigates to Create
 
 ## Sprint 2
 ### Objectives 
-- [ ] Set up adding a new habit
-- [ ] Set up updating an existing habit
-- [ ] Set up deleting an existing habit
+- [x] Set up adding a new habit
+- [x] Set up updating an existing habit
+- [x] Set up deleting an existing habit
 - [ ] Set up a skeleton of the Profile page
       
+### Demo Video
+[Demo](https://www.loom.com/share/3dc262e4e5454a95a99bbb3cc059065c?sid=488a15ba-f469-442c-a5b2-89fcac24e410)
+
+### Challenges
+Setting up local storage was a little hurdle, but it worked out!
+
+### What's Next
+Something I didn't achieve this week was to set up the profile page. But with the habits set up, there are only a few more things until my final app will be complete!
+
 ## Sprint 3
 ### Objectives
 - [ ] Navigating between List of Habits and Profile Page
