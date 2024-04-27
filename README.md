@@ -149,6 +149,16 @@ Something I didn't achieve this week was to set up the profile page. But with th
 
 ## Sprint 3
 ### Objectives
-- [ ] Navigating between List of Habits and Profile Page
+- [x] Navigating between List of Habits and Profile Page
 - [ ] Making a Habit as completed onto a calendar view
-- [ ] Link completed habits to a visualization
+- [x] Link completed habits to a visualization
+
+### Demo Video
+[Demo](https://www.loom.com/share/1589f4e599a7467891ec4a948bfc59d7?sid=02afa085-f521-4b53-b079-10a74e8bb64e)
+
+### Challenges
+It was hard to update the habits to be completed - I hit a wall because some values were producing errors saying that they are Optionals, when I did not set them as Optional. But I found a workaround and it worked!
+
+### What's Next
+I did not implement the calendar view to show which dates the habit were completed. But the progress view updated by marking the habits as complete! It also doesn't deselect if the date last selected was the current date.
+Next up is to make these visually visible and more appealing on the app. 
